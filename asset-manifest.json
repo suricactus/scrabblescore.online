@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa3b7824.chunk.css",
-    "main.js": "/static/js/main.48679ad1.chunk.js",
-    "main.js.map": "/static/js/main.48679ad1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cd11e6d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cd11e6d7.js.map",
-    "static/css/2.75ee4df5.chunk.css": "/static/css/2.75ee4df5.chunk.css",
-    "static/js/2.18c5a3d1.chunk.js": "/static/js/2.18c5a3d1.chunk.js",
-    "static/js/2.18c5a3d1.chunk.js.map": "/static/js/2.18c5a3d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.957f3e79c41c36095fe64f874391c50d.js": "/precache-manifest.957f3e79c41c36095fe64f874391c50d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.75ee4df5.chunk.css.map": "/static/css/2.75ee4df5.chunk.css.map",
-    "static/css/main.aa3b7824.chunk.css.map": "/static/css/main.aa3b7824.chunk.css.map",
-    "static/js/2.18c5a3d1.chunk.js.LICENSE": "/static/js/2.18c5a3d1.chunk.js.LICENSE"
+    "main.css": "http://suricactus.github.io/scrabblescore.online/static/css/main.aa3b7824.chunk.css",
+    "main.js": "http://suricactus.github.io/scrabblescore.online/static/js/main.b648649d.chunk.js",
+    "main.js.map": "http://suricactus.github.io/scrabblescore.online/static/js/main.b648649d.chunk.js.map",
+    "runtime-main.js": "http://suricactus.github.io/scrabblescore.online/static/js/runtime-main.d6d3312e.js",
+    "runtime-main.js.map": "http://suricactus.github.io/scrabblescore.online/static/js/runtime-main.d6d3312e.js.map",
+    "static/css/2.75ee4df5.chunk.css": "http://suricactus.github.io/scrabblescore.online/static/css/2.75ee4df5.chunk.css",
+    "static/js/2.18c5a3d1.chunk.js": "http://suricactus.github.io/scrabblescore.online/static/js/2.18c5a3d1.chunk.js",
+    "static/js/2.18c5a3d1.chunk.js.map": "http://suricactus.github.io/scrabblescore.online/static/js/2.18c5a3d1.chunk.js.map",
+    "index.html": "http://suricactus.github.io/scrabblescore.online/index.html",
+    "precache-manifest.96da67a903e3fb711ad79c3b4963b432.js": "http://suricactus.github.io/scrabblescore.online/precache-manifest.96da67a903e3fb711ad79c3b4963b432.js",
+    "service-worker.js": "http://suricactus.github.io/scrabblescore.online/service-worker.js",
+    "static/css/2.75ee4df5.chunk.css.map": "http://suricactus.github.io/scrabblescore.online/static/css/2.75ee4df5.chunk.css.map",
+    "static/css/main.aa3b7824.chunk.css.map": "http://suricactus.github.io/scrabblescore.online/static/css/main.aa3b7824.chunk.css.map",
+    "static/js/2.18c5a3d1.chunk.js.LICENSE": "http://suricactus.github.io/scrabblescore.online/static/js/2.18c5a3d1.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd11e6d7.js",
+    "static/js/runtime-main.d6d3312e.js",
     "static/css/2.75ee4df5.chunk.css",
     "static/js/2.18c5a3d1.chunk.js",
     "static/css/main.aa3b7824.chunk.css",
-    "static/js/main.48679ad1.chunk.js"
+    "static/js/main.b648649d.chunk.js"
   ]
 }
